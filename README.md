@@ -1,4 +1,6 @@
-# P4 RAG 智能客服项目
+<img width="899" height="783" alt="image" src="https://github.com/user-attachments/assets/c7b7fad1-e7db-4fe1-9cea-f68e569e428b" />
+
+# RAG 智能客服项目
 
 基于 **LangChain** + **Chroma** + **阿里云通义（DashScope）** 的检索增强生成（RAG）示例。面向服装电商场景，支持知识库上传、向量检索与带历史记忆的流式问答。
 
