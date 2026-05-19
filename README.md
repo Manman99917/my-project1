@@ -15,7 +15,7 @@
 ## 项目结构
 
 ```
-P4_RAG项目案例/
+RAG项目/
 ├── app_file_uploader.py   # Streamlit：知识库上传页面
 ├── app_qa.py              # Streamlit：智能客服对话页面
 ├── knowledge_base.py      # 知识库写入（分块、向量化、MD5 去重）
